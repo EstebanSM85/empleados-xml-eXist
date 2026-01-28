@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleados>
+    <empleado id="1">
+        <nombre>Ana López</nombre>
+        <cargo>Desarrolladora</cargo>
+        <salario>28000</salario>
+    </empleado>
+    <empleado id="2">
+        <nombre>Juan Pérez</nombre>
+        <cargo>Analista</cargo>
+        <salario>32000</salario>
+    </empleado>
+</empleados>
