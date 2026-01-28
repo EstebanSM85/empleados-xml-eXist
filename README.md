@@ -68,26 +68,8 @@ Ejemplo de consultas:
 
 🏗️ Estructura del Proyecto
 empleados-xml-exist/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/empleados/
-│   │   │       ├── model/
-│   │   │       │   └── Empleado.java
-│   │   │       ├── db/
-│   │   │       │   ├── ConexionExistDB.java
-│   │   │       │   ├── GestorXML.java
-│   │   │       │   └── ValidadorXML.java
-│   │   │       └── main/
-│   │   │           └── Main.java
-│   │   └── resources/
-│   │       ├── empleados.xml
-│   │       └── schemas/
-│   │           └── empleado.xsd
-│
-├── pom.xml
-└── README.md
+
+<img width="430" height="420" alt="image" src="https://github.com/user-attachments/assets/4fe925b3-5283-4e84-aafc-82f7ce9b274f" />
 
 
 
@@ -101,11 +83,8 @@ Ejemplo de empleado:
 
 
 Campos del Empleado
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
+
+<img width="688" height="231" alt="image" src="https://github.com/user-attachments/assets/e70776c6-23c2-4523-b95f-1e6c40533d37" />
 
 
 
